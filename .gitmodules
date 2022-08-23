@@ -1,0 +1,3 @@
+[submodule "sub-modulo"]
+	path = sub-modulo
+	url = git@github.com:PedroSousaLopes/portfolio-web-cliente.git
